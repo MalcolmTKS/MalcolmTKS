@@ -4,9 +4,6 @@
 # 💫 About Me:
 🔭 I am a Security Specialist with a passion for Technology and Security related domains.<be>
 
-### Website:
-[My portfolio](https://malcolmcybersec-io.pages.dev/)
-
 ## 🌐 Socials:
 
 # 💻 Tech Stack:
@@ -16,4 +13,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MalcolmTKS&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MalcolmTKS&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
