@@ -2,7 +2,8 @@
 
 
 # 💫 About Me:
-🔭 I am a Security Specialist with a passion for Technology and Security related domains.<be>
+🔭Cyber Defender 
+  Threat Hunter<be>
 
 ## 🌐 Socials:
 
