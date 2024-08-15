@@ -2,8 +2,7 @@
 
 
 # 💫 About Me:
-🔭Cyber Defender <br>
-  Threat Hunter<be>
+🔭Threat Hunter<be>
 
 ## 🌐 Socials:
 
