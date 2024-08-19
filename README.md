@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭Threat Hunter x Cyber Threat Intelligence<be>
+🔭Threat Hunting x Cyber Threat Intelligence<be>
 
 ## 🌐 Socials:
 
